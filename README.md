@@ -11,10 +11,14 @@
 
 ## 📝 About Me
 
-- 💻 Passionate full-stack developer with a love for clean, efficient, and scalable code  
-- 🔁 Experienced in building dynamic front-end UIs and robust back-end APIs  
-- 🚀 Always exploring new technologies and pushing the boundaries of what’s possible  
-- 🎨 Enjoy working on creative side-projects like pixel art and interactive dashboards  
+- 💻 Passionate full-stack developer with a love for clean, efficient, and scalable code
+  
+- 🔁 Experienced in building dynamic front-end UIs and robust back-end APIs
+  
+- 🚀 Always exploring new technologies and pushing the boundaries of what’s possible
+   
+- 🎨 Enjoy working on creative side-projects like pixel art and interactive dashboards
+   
 - 🎧 Fuelled by lo-fi beats, black coffee, and an endless curiosity for code  
 
 
