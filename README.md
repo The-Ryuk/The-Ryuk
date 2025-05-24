@@ -28,26 +28,55 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ### 🤝 Let’s Connect
 
-<p align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 220px; margin: auto;">
-  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;" 
-     onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px #0A66C2';" 
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center" style="display: flex; gap: 25px; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 400px; margin: auto;">
+  <a href="https://blog.mphomphego.co.za/" target="_blank" style="transition: transform 0.3s ease, filter 0.3s ease;" 
+     onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 5px #000)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="Website" />
   </a>
-  
-  <a href="mailto:ana.dev@example.com" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px #D14836';" 
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <a href="https://dev.to/mmphego" target="_blank" style="transition: transform 0.3s ease, filter 0.3s ease;" 
+     onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 5px #000)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img src="https://img.icons8.com/windows/32/000000/dev.png" alt="Dev.to" />
   </a>
-  
-  <a href="https://ana.dev" target="_blank" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px #8A2BE2';" 
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+
+  <a href="mailto:mpho@mphomphego.co.za" style="transition: transform 0.3s ease, filter 0.3s ease;" 
+     onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 5px #D14836)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mphomphego" target="_blank" style="transition: transform 0.3s ease, filter 0.3s ease;" 
+     onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 5px #0A66C2)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+
+  <a href="https://hub.docker.com/u/mmphego" target="_blank" style="transition: transform 0.3s ease, filter 0.3s ease;" 
+     onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 5px #2496ED)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img src="https://img.icons8.com/color/32/000000/docker.png" alt="Docker" />
+  </a>
+
+  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1" target="_blank" style="transition: transform 0.3s ease, filter 0.3s ease;" 
+     onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 5px #FF0000)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img src="https://img.icons8.com/color/32/000000/youtube.png" alt="YouTube" />
+  </a>
+
+  <a href="https://twitter.com/mphomphego" target="_blank" style="transition: transform 0.3s ease, filter 0.3s ease;" 
+     onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 5px #1DA1F2)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="Twitter" />
+  </a>
+
+  <a href="https://tiktok.com/@mph0.m" target="_blank" style="transition: transform 0.3s ease, filter 0.3s ease;" 
+     onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 5px #69C9D0)';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img src="https://img.icons8.com/fluent/32/000000/tiktok.png" alt="TikTok" />
   </a>
 </p>
-
 ---
 
 <p align="center">
