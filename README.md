@@ -1,9 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Pixel Lo-fi Coding Banner" width="100%" />
 </p>
-
-
 
 <!-- Intro -->
 <h1 align="center">Hi there 👋, I'm Ana</h1>
