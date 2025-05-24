@@ -3,7 +3,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi there 👋, I'm Ana</h1>
+<h1 align="center">Hi there 👋, I'm Deepikaa !</h1>
 <h3 align="center">✨ Software Developer | Dreaming in Code ✨</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ### 🧰 Tech Stack & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,python,flask,nodejs,express,mongodb,postgresql,vscode,git,github,docker,linux,postman,figma" alt="Tech Stack and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,vscode,git,github" alt="Tech Stack and Tools" />
 </p>
 
 ---
