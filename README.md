@@ -30,7 +30,7 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 ### 🤝 Let’s Connect
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mphomphego">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
