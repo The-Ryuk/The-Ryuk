@@ -29,15 +29,16 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ### 🤝 Let’s Connect
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mphomphego" target="_blank">
-    <img src="https://github.com/openai-images/chatgpt-media/blob/main/animated-icons/linkedin_bold.gif?raw=true" width="50" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="assets/linkedin.gif" width="50" alt="LinkedIn" />
   </a>
-  <a href="mailto:mpho@mphomphego.co.za" target="_blank">
-    <img src="https://github.com/openai-images/chatgpt-media/blob/main/animated-icons/gmail_bold.gif?raw=true" width="50" alt="Gmail" />
+  <a href="mailto:your.email@example.com">
+    <img src="assets/gmail.gif" width="50" alt="Gmail" />
   </a>
-  <a href="https://blog.mphomphego.co.za" target="_blank">
-    <img src="https://github.com/openai-images/chatgpt-media/blob/main/animated-icons/blog_bold.gif?raw=true" width="50" alt="Blog" />
+  <a href="https://yourblog.blogspot.com">
+    <img src="assets/blogspot.gif" width="50" alt="Blogspot" />
   </a>
 </p>
 
