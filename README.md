@@ -33,7 +33,7 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a></br>
   
-  <a href="mailto:ana.dev@example.com" style="display: inline-block;width: 5px;">
+  <a>
     <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a></br>
   
