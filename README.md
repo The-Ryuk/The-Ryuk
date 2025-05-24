@@ -20,8 +20,8 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ### 🧰 Tech Stack & Tools I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,python,flask,nodejs,express,mongodb,postgresql,vscode,git,github,docker,linux,postman,figma" alt="Tech Stack and Tools" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,vscode,git,github" alt="Tech Stack and Tools" />
 </p>
 
 ---
@@ -41,11 +41,6 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Blog" />
   </a>
 </p>
-
-
-
-
-
 
 ---
 
