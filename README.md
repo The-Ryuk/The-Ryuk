@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Flofi-aesthetic-header%2F900615777081%2F&psig=AOvVaw0i2vB1kJmo3k_4h7k8ibS_&ust=1748155022869000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDwqY6_u40DFQAAAAAdAAAAABAU" width="100%" />
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Flofi-aesthetic-header%2F900615777081%2F&psig=AOvVaw0i2vB1kJmo3k_4h7k8ibS_&ust=1748155022869000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDwqY6_u40DFQAAAAAdAAAAABAU](https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif)" width="100%" />
 </p>
 
 <!-- Intro -->
