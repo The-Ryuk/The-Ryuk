@@ -29,22 +29,29 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ### 🤝 Let’s Connect
 
-<div align="center" style="display: flex; gap: 15px; justify-content: center;">
-  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(29%) sepia(93%) saturate(2835%) hue-rotate(187deg) brightness(96%) contrast(89%);"
-      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; width: 180px; margin: auto;">
+  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" 
+     style="display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: 700; font-size: 18px; color: #0A66C2; transition: transform 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 10px; fill: #0A66C2;"/>
+    LinkedIn
   </a>
 
-  <a href="mailto:ana.dev@example.com" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="30" height="30" style="filter: invert(17%) sepia(93%) saturate(7000%) hue-rotate(345deg) brightness(91%) contrast(88%);"
-      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="mailto:ana.dev@example.com" 
+     style="display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: 700; font-size: 18px; color: #D14836; transition: transform 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="32" height="32" style="margin-right: 10px; fill: #D14836;"/>
+    Email
   </a>
 
-  <a href="https://ana.dev" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg" alt="Portfolio" width="30" height="30" style="filter: invert(95%) sepia(7%) saturate(758%) hue-rotate(216deg) brightness(104%) contrast(101%);"
-      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://ana.dev" target="_blank" 
+     style="display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: 700; font-size: 18px; color: #000000; transition: transform 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg" alt="Portfolio" width="32" height="32" style="margin-right: 10px; fill: #000000;"/>
+    Portfolio
   </a>
 </div>
+
 
 ---
 
