@@ -2,9 +2,12 @@
   <img src="https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif" alt="Banner" width="100%" />
 </p>
 
-<!-- Intro -->
 <h1 align="center">Hi there 👋, I'm Ana</h1>
 <h3 align="center">✨ Software Developer | Dreaming in Code ✨</h3>
+
+<p align="center">
+  Passionate about building meaningful digital experiences with clean, efficient, and modern code. I love turning complex problems into beautiful solutions using a mix of front-end and back-end magic.
+</p>
 
 ---
 
@@ -22,7 +25,8 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ---
 
-<!-- Let’s Connect Vertical with animation -->
+### 🤝 Let’s Connect
+
 <div align="center" style="display: flex; flex-direction: column; gap: 15px; width: 120px; margin: auto;">
   <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"
@@ -39,7 +43,6 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
       onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
-
 
 ---
 
