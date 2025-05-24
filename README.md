@@ -29,7 +29,7 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ### 🤝 Let’s Connect
 
-<p align="center">
+<p>
   <a href="https://blog.mphomphego.co.za/" style="margin: 0 16px;">
     <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="blogspot" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
