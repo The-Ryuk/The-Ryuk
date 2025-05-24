@@ -29,22 +29,18 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ### 🤝 Let’s Connect
 
-<p align="left">
-  <!-- LinkedIn -->
+<p align="center">
   <a href="https://www.linkedin.com/in/mphomphego" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" alt="LinkedIn"/>
+    <img src="https://github.com/openai-images/chatgpt-media/blob/main/animated-icons/linkedin_bold.gif?raw=true" width="50" alt="LinkedIn" />
   </a>
-
-  <!-- Gmail -->
   <a href="mailto:mpho@mphomphego.co.za" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235326183-3940e9b3-1c89-46ce-8e54-cb365ad9b914.gif" width="50" alt="Gmail"/>
+    <img src="https://github.com/openai-images/chatgpt-media/blob/main/animated-icons/gmail_bold.gif?raw=true" width="50" alt="Gmail" />
   </a>
-
-  <!-- Blog / Domain -->
   <a href="https://blog.mphomphego.co.za" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235326184-00d3fa4e-fdfc-419a-adeb-c9f91f3497fb.gif" width="50" alt="Blogspot / Domain"/>
+    <img src="https://github.com/openai-images/chatgpt-media/blob/main/animated-icons/blog_bold.gif?raw=true" width="50" alt="Blog" />
   </a>
 </p>
+
 
 
 
