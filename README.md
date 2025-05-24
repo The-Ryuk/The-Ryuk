@@ -1,4 +1,6 @@
-![Banner](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif" alt="Banner" width="100%" />
+</p>
 
 <!-- Intro -->
 <h1 align="center">Hi there 👋, I'm Ana</h1>
@@ -10,11 +12,9 @@
 
 ---
 
-### 👩‍💻 About Me
+### 📝 About Me
 
-<p align="center">
-  I'm Ana, a dedicated software developer focused on crafting seamless user experiences and scalable backend services. With a knack for problem-solving and a passion for learning, I strive to keep up with the latest technologies to deliver high-quality projects.
-</p>
+I'm Ana, a software developer with a passion for crafting clean, efficient, and scalable code. I enjoy working across the full stack, exploring new technologies, and building projects that solve real-world problems. When I'm not coding, you'll find me immersed in lo-fi beats and pixel art.
 
 ---
 
@@ -28,28 +28,17 @@
 
 ### 🤝 Let’s Connect
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; width: 180px; margin: auto;">
-  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" 
-     style="display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: 700; font-size: 18px; color: #0A66C2; transition: transform 0.3s ease;"
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 10px; fill: #0A66C2;"/>
-    LinkedIn
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="mailto:ana.dev@example.com" 
-     style="display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: 700; font-size: 18px; color: #D14836; transition: transform 0.3s ease;"
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="32" height="32" style="margin-right: 10px; fill: #D14836;"/>
-    Email
+  <a href="mailto:ana.dev@example.com">
+    <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://ana.dev" target="_blank" 
-     style="display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: 700; font-size: 18px; color: #000000; transition: transform 0.3s ease;"
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg" alt="Portfolio" width="32" height="32" style="margin-right: 10px; fill: #000000;"/>
-    Portfolio
+  <a href="https://ana.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
