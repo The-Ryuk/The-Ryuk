@@ -3,14 +3,20 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi there 👋, I'm Ana</h1>
+<h1 align="center">Hi there 👋, I'm Deepikaa!</h1>
 <h3 align="center">✨ Software Developer | Dreaming in Code ✨</h3>
 
 ---
 
+
 ### 📝 About Me
 
-I'm Ana, a software developer with a passion for crafting clean, efficient, and scalable code. I enjoy working across the full stack, exploring new technologies, and building projects that solve real-world problems. When I'm not coding, you'll find me immersed in lo-fi beats and pixel art.
+- 💻 Passionate full-stack developer with a love for clean, efficient, and scalable code  
+- 🔁 Experienced in building dynamic front-end UIs and robust back-end APIs  
+- 🚀 Always exploring new technologies and pushing the boundaries of what’s possible  
+- 🎨 Enjoy working on creative side-projects like pixel art and interactive dashboards  
+- 🎧 Fuelled by lo-fi beats, black coffee, and an endless curiosity for code  
+
 
 ---
 
@@ -27,10 +33,10 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mphomphego">
+  <a href="">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:mpho@mphomphego.co.za">
+  <a href="">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
 </p>
