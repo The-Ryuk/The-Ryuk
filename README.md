@@ -22,19 +22,24 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ---
 
-### 🤝 Let’s Connect
+<!-- Let’s Connect Vertical with animation -->
+<div align="center" style="display: flex; flex-direction: column; gap: 15px; width: 120px; margin: auto;">
+  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"
+      onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:ana.dev@example.com" style="display: inline-block; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120"
+      onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="mailto:ana.dev@example.com">
-    <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="https://ana.dev" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" width="120"
+      onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://ana.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+</div>
+
 
 ---
 
