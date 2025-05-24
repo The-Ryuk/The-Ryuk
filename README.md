@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif" alt="Banner" width="100%" />
-</p>
+![Banner](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)
 
+<!-- Intro -->
 <h1 align="center">Hi there 👋, I'm Ana</h1>
 <h3 align="center">✨ Software Developer | Dreaming in Code ✨</h3>
 
@@ -11,9 +10,11 @@
 
 ---
 
-### 📝 About Me
+### 👩‍💻 About Me
 
-I'm Ana, a software developer with a passion for crafting clean, efficient, and scalable code. I enjoy working across the full stack, exploring new technologies, and building projects that solve real-world problems. When I'm not coding, you'll find me immersed in lo-fi beats and pixel art.
+<p align="center">
+  I'm Ana, a dedicated software developer focused on crafting seamless user experiences and scalable backend services. With a knack for problem-solving and a passion for learning, I strive to keep up with the latest technologies to deliver high-quality projects.
+</p>
 
 ---
 
@@ -22,8 +23,6 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,python,flask,nodejs,express,mongodb,postgresql,vscode,git,github,docker,linux,postman,figma" alt="Tech Stack and Tools" />
 </p>
-
----
 
 ---
 
@@ -51,7 +50,6 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
     Portfolio
   </a>
 </div>
-
 
 ---
 
