@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/lX8dIWl.gif" alt="lo-fi girl coding banner" width="100%" />
+  <img src="https://thumb.r2.moele.me/t/31316/31306597/a-0060.jpg" alt="lo-fi girl coding banner" width="100%" />
 </p>
 
 <!-- Intro -->
