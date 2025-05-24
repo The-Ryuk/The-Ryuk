@@ -25,22 +25,28 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 </p>
 
 ---
-
 ### 🤝 Let’s Connect
 
-<p  style="display: flex; flex-direction: column; gap: 15px; max-width: 200px; margin: auto;">
-  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a></br>
+<p align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 220px; margin: auto;">
+  <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;" 
+     onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px #0A66C2';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   
-  <a>
-    <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a></br>
+  <a href="mailto:ana.dev@example.com" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;"
+     onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px #D14836';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+    <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   
-  <a href="https://ana.dev" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a></br>
+  <a href="https://ana.dev" target="_blank" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;"
+     onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px #8A2BE2';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+    <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
 
 ---
 
