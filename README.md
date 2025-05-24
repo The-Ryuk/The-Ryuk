@@ -25,6 +25,7 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 </p>
 
 ---
+
 ### 🤝 Let’s Connect
 
 <p align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 220px; margin: auto;">
@@ -46,7 +47,6 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
     <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 
 ---
 
