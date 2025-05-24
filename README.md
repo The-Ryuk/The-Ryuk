@@ -31,7 +31,7 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 <p align="center" style="display: flex; flex-direction: column; gap: 15px; max-width: 200px; margin: auto;">
   <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a></br>
   
   <a href="mailto:ana.dev@example.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
