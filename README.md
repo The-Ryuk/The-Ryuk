@@ -3,7 +3,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi there 👋, I'm Deepikaa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hi there 👋, I'm Ana <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">✨ Software Developer | Dreaming in Code ✨</h3>
 
 ---
