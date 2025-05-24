@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*YyL79g0pgvpMnzta" alt="lo-fi girl coding banner" width="100%" />
+  <img src="[https://miro.medium.com/v2/resize:fit:640/format:webp/0*YyL79g0pgvpMnzta" alt="lo-fi girl coding banner](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)" width="100%" />
 </p>
 
 
