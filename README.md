@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://thumb.r2.moele.me/t/31316/31306597/a-0060.jpg" alt="lo-fi girl coding banner" width="100%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Flofi-aesthetic-header%2F900615777081%2F&psig=AOvVaw0i2vB1kJmo3k_4h7k8ibS_&ust=1748155022869000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDwqY6_u40DFQAAAAAdAAAAABAU" width="100%" />
 </p>
 
 <!-- Intro -->
