@@ -39,7 +39,7 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
   
   <a href="https://ana.dev" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a></br>
 </p>
 
 ---
