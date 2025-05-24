@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+![Banner](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)
 
 <!-- Intro -->
 <h1 align="center">Hi there 👋, I'm Ana</h1>
