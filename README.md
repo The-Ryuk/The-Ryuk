@@ -20,7 +20,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools I Use
+# 🧰 Tech Stack & Tools I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,vscode,git,github" alt="Tech Stack and Tools" />
@@ -29,7 +29,7 @@
 ---
 
 
-### 🤝 Let’s Connect
+# 🤝 Let’s Connect
 
 
 <p align="left">
