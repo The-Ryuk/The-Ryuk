@@ -3,7 +3,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi there 👋, I'm Deepikaa !</h1>
+<h1 align="center">Hi there 👋, I'm Ana</h1>
 <h3 align="center">✨ Software Developer | Dreaming in Code ✨</h3>
 
 <p align="center">
@@ -12,23 +12,16 @@
 
 ---
 
-### 🧰 Tech Stack & Tools I Use
+### 📝 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,vscode,git,github" alt="Tech Stack and Tools" />
-</p>
+I'm Ana, a software developer with a passion for crafting clean, efficient, and scalable code. I enjoy working across the full stack, exploring new technologies, and building projects that solve real-world problems. When I'm not coding, you'll find me immersed in lo-fi beats and pixel art.
 
 ---
 
-### 🔥 Popular Repositories
+### 🧰 Tech Stack & Tools I Use
 
 <p align="center">
-  <a href="https://github.com/ana-dev/awesome-portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ana-dev&repo=awesome-portfolio&theme=calm" />
-  </a>
-  <a href="https://github.com/ana-dev/flask-api-template" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ana-dev&repo=flask-api-template&theme=calm" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,python,flask,nodejs,express,mongodb,postgresql,vscode,git,github,docker,linux,postman,figma" alt="Tech Stack and Tools" />
 </p>
 
 ---
