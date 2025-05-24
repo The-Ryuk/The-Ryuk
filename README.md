@@ -29,62 +29,15 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ### 🤝 Let’s Connect
 
-<p align="center" style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center; max-width: 200px; margin: auto;">
-  <a href="https://blog.mphomphego.co.za/" target="_blank" style="display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, filter 0.3s ease; text-decoration: none; color: inherit;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 5px #000)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
-    <img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="Website" />
-    <span>Website</span>
-  </a>
-
-  <a href="https://dev.to/mmphego" target="_blank" style="display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, filter 0.3s ease; text-decoration: none; color: inherit;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 5px #000)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
-    <img src="https://img.icons8.com/windows/32/000000/dev.png" alt="Dev.to" />
-    <span>Dev.to</span>
-  </a>
-
-  <a href="mailto:mpho@mphomphego.co.za" style="display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, filter 0.3s ease; text-decoration: none; color: inherit;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 5px #D14836)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
-    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="Email" />
-    <span>Email</span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mphomphego" target="_blank" style="display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, filter 0.3s ease; text-decoration: none; color: inherit;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 5px #0A66C2)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
-    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" />
-    <span>LinkedIn</span>
-  </a>
-
-  <a href="https://hub.docker.com/u/mmphego" target="_blank" style="display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, filter 0.3s ease; text-decoration: none; color: inherit;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 5px #2496ED)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
-    <img src="https://img.icons8.com/color/32/000000/docker.png" alt="Docker" />
-    <span>Docker</span>
-  </a>
-
-  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1" target="_blank" style="display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, filter 0.3s ease; text-decoration: none; color: inherit;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 5px #FF0000)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
-    <img src="https://img.icons8.com/color/32/000000/youtube.png" alt="YouTube" />
-    <span>YouTube</span>
-  </a>
-
-  <a href="https://twitter.com/mphomphego" target="_blank" style="display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, filter 0.3s ease; text-decoration: none; color: inherit;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 5px #1DA1F2)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
-    <img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="Twitter" />
-    <span>Twitter</span>
-  </a>
-
-  <a href="https://tiktok.com/@mph0.m" target="_blank" style="display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease, filter 0.3s ease; text-decoration: none; color: inherit;"
-     onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 5px #69C9D0)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
-    <img src="https://img.icons8.com/fluent/32/000000/tiktok.png" alt="TikTok" />
-    <span>TikTok</span>
-  </a>
+<p align="center">
+  <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
+  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
+  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
 </p>
 
 ---
