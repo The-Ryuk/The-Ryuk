@@ -31,30 +31,31 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 <p align="center">
   <a href="https://blog.mphomphego.co.za/" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="domain" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://icons8.com/preloaders/preloaders/1485/Spinner-3.gif" alt="domain" width="48" height="48" />
   </a>
   <a href="https://dev.to/mmphego" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/windows/48/000000/dev.png" alt="dev.to" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://icons8.com/preloaders/preloaders/1489/Rolling-2.gif" alt="dev.to" width="48" height="48" />
   </a>
   <a href="mailto:mpho@mphomphego.co.za" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://icons8.com/preloaders/preloaders/1480/Email.gif" alt="gmail" width="48" height="48" />
   </a>
   <a href="https://www.linkedin.com/in/mphomphego" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://icons8.com/preloaders/preloaders/1490/Linkedin.gif" alt="linkedin" width="48" height="48" />
   </a>
   <a href="https://hub.docker.com/u/mmphego" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://icons8.com/preloaders/preloaders/1486/Docker.gif" alt="docker" width="48" height="48" />
   </a>
   <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="youtube" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://icons8.com/preloaders/preloaders/1487/YouTube.gif" alt="youtube" width="48" height="48" />
   </a>
   <a href="https://twitter.com/mphomphego" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://icons8.com/preloaders/preloaders/1483/Twitter.gif" alt="twitter" width="48" height="48" />
   </a>
   <a href="https://tiktok.com/@mph0.m" style="margin: 0 12px;">
-    <img src="https://img.icons8.com/fluent/48/000000/tiktok.png" alt="tiktok" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://i.gifer.com/origin/18/181a4f051f177df86a7b24ff0eb0ed26.gif" alt="tiktok" width="48" height="48" />
   </a>
 </p>
+
 
 
 ---
