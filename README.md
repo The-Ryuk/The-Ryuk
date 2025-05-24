@@ -25,22 +25,24 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ---
 
+---
+
 ### 🤝 Let’s Connect
 
-<div align="center" style="display: flex; flex-direction: column; gap: 15px; width: 120px; margin: auto;">
+<div align="center" style="display: flex; gap: 15px; justify-content: center;">
   <a href="https://www.linkedin.com/in/ana-dev/" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"
-      onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(29%) sepia(93%) saturate(2835%) hue-rotate(187deg) brightness(96%) contrast(89%);"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
   <a href="mailto:ana.dev@example.com" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/Email-ana.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120"
-      onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="30" height="30" style="filter: invert(17%) sepia(93%) saturate(7000%) hue-rotate(345deg) brightness(91%) contrast(88%);"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
   <a href="https://ana.dev" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/Portfolio-ana.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" width="120"
-      onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg" alt="Portfolio" width="30" height="30" style="filter: invert(95%) sepia(7%) saturate(758%) hue-rotate(216deg) brightness(104%) contrast(101%);"
+      onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
