@@ -6,10 +6,6 @@
 <h1 align="center">Hi there 👋, I'm Ana</h1>
 <h3 align="center">✨ Software Developer | Dreaming in Code ✨</h3>
 
-<p align="center">
-  Passionate about building meaningful digital experiences with clean, efficient, and modern code. I love turning complex problems into beautiful solutions using a mix of front-end and back-end magic.
-</p>
-
 ---
 
 ### 📝 About Me
