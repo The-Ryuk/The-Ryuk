@@ -29,17 +29,23 @@ I'm Ana, a software developer with a passion for crafting clean, efficient, and 
 
 ### 🤝 Let’s Connect
 
-<p>
-  <a href="https://blog.mphomphego.co.za/" style="margin: 0 16px;">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="blogspot" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mphomphego" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mpho@mphomphego.co.za" style="margin: 0 16px;">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <!-- Gmail -->
+  <a href="mailto:mpho@mphomphego.co.za" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235326183-3940e9b3-1c89-46ce-8e54-cb365ad9b914.gif" width="50" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mphomphego" style="margin: 0 16px;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <!-- Blog / Domain -->
+  <a href="https://blog.mphomphego.co.za" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235326184-00d3fa4e-fdfc-419a-adeb-c9f91f3497fb.gif" width="50" alt="Blogspot / Domain"/>
   </a>
 </p>
+
 
 
 
